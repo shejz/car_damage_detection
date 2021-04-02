@@ -1,5 +1,5 @@
 ## Car Damage Detection
-![](https://i.postimg.cc/QxXyrw3s/uploaded2.gif)
+![](https://i.postimg.cc/05G11hz2/Uploaded.gif)
 
 Well, most of us call our car insurance company, tell them what has happened. And then we wait... for the insurance agent to come and inspect the car,
 and take the process forward. This process of inspection take few days.... But we want our car to be back on road ASAP. What can we do to make this process more efficient?
