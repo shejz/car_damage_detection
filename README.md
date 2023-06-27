@@ -10,12 +10,12 @@ and take the process forward. This process of inspection take few days.... But w
   
 ### Model Architecture and Pipeline
 
-- **First check**: Check if it's a car or not?  [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/First%20check%20-%20car%20or%20not.ipynb)
-- **Second check**: Ensure the submitted image of car is damaged. [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Second%20check%20-%20prediction.ipynb)
-- **Third check**: Check the location of damage in the car. [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Third%20check%20-%20prediction.ipynb)
-- **Fourth check**: Determine the severity of damage. [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Fourth%20Check%20-%20prediction.ipynb)
+- **First check**: Check if it's a car or not?  [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/First%20check%20-%20car%20or%20not.ipynb)
+- **Second check**: Ensure the submitted image of car is damaged. [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Second%20check%20-%20prediction.ipynb)
+- **Third check**: Check the location of damage in the car. [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Third%20check%20-%20prediction.ipynb)
+- **Fourth check**: Determine the severity of damage. [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Fourth%20Check%20-%20prediction.ipynb)
 
-**NOTEBOOK DEMO**: [![Nbviewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Integration%20-%20Combining%20all%20checks.ipynb)
+**NOTEBOOK DEMO**: [![Nbviewer](https://github.com/jupyter/design/blob/main/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/shejz/car_damage_detection/blob/main/Integration%20-%20Combining%20all%20checks.ipynb)
 
 
 
